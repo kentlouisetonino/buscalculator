@@ -1,5 +1,4 @@
-### DESCRIPTION
-##
+## $\textnormal{Description}$
 
 ![bus-calculator](https://github.com/kentlouisetonino/bus-calculator/assets/69438999/ab61c44d-26b0-4b84-82c3-c220299447a7)
 
@@ -33,8 +32,8 @@ Explanation: This means at the 1st trip, there are 40 (50 - 10) remaining seats.
 
 
 
-### DEVELOPMENT
-##
+## $\textnormal{Local \ Development}$
+
 > - Install the GNU C++ Compiler in your machine.
 
 > - Go to the root directory. Run the following commands.
@@ -52,8 +51,7 @@ sudo chmod +x build
 
 
 
-### INSTALLATION
-##
+## $\textnormal{Installation}$
 
 ```bash
 # If already installed.
