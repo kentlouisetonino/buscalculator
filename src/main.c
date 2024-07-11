@@ -13,6 +13,7 @@ int main(void) {
   int total_seats_error = 0;
   int total_passengers = 0;
   int total_passengers_error = 0;
+  int empty_seats = 0;
   char garbage[100];
 
   while (1) {
@@ -60,6 +61,14 @@ int main(void) {
       total_passengers_error = 1;
       fgets(garbage, 100, stdin);
       continue;
+    }
+
+    if (total_passengers < total_seats) {
+      empty_seats = total_seats - total_passengers;
+      add_new_tab();
+      printf("Total last trip empty seats: %d", empty_seats);
+      add_new_line();
+      add_new_line();
     }
 
     break;
