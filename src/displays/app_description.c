@@ -3,8 +3,6 @@
 #include <stdio.h>
 
 void app_description(void) {
-  add_new_line();
-  add_new_line();
   add_new_tab();
   printf("%s-----------------------------------------------%s", BLUE, RESET);
   add_new_line();
@@ -26,6 +24,4 @@ void app_description(void) {
   add_new_line();
   add_new_tab();
   printf("%s-----------------------------------------------%s", BLUE, RESET);
-  add_new_line();
-  add_new_line();
 }
