@@ -1,7 +1,6 @@
 ## $\textnormal{Description}$
 
-![bus-calculator](https://github.com/kentlouisetonino/bus-calculator/assets/69438999/ab61c44d-26b0-4b84-82c3-c220299447a7)
-
+![Screenshot from 2024-07-12 21-29-44](https://github.com/user-attachments/assets/a613d87a-9522-49d9-b0ba-36fbf74f2420)
 
 <br />
 
@@ -29,6 +28,7 @@ Explanation: This means at the 1st trip, there are 40 (50 - 10) remaining seats.
 
 <br />
 <br />
+<br />
 
 
 
@@ -46,6 +46,7 @@ sudo chmod +x build
 ./app
 ```
 
+<br />
 <br />
 <br />
 
