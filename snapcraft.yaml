@@ -10,7 +10,7 @@ confinement: strict
 
 apps:
   bus-calculator:
-    command: app
+    command: bin/bus-calculator
 
 parts:
   bus-calculator:
@@ -19,4 +19,4 @@ parts:
     plugin: dump
     organize:
       # Move the app executable to the root of the snap package.
-      "app": "/usr/local/bin/app"
+      "bus-calculator": "/usr/local/bin/bus-calculator"
