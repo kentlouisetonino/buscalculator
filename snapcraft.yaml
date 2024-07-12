@@ -1,5 +1,5 @@
 name: bus-calculator
-version: "1.10"
+version: "2.0.0"
 summary: Bus Calculator
 description: |
   A CLI application that will allow you to compute the Bus last trip empty seats.
