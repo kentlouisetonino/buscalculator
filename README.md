@@ -7,7 +7,7 @@
 > - A CLI tool that will allow you to compute the Bus last trip empty
     seats based on the given total number of seats and passengers.
 
-> - The technologies are C, GNU C Compiler (G++), GNU Debugger, Snapcraft, and GNU/Linux.
+> - The technologies are C, GNU C Compiler (GCC), GNU Debugger (GDB), Snapcraft, and GNU/Linux.
 
 > - Snap : https://snapcraft.io/bus-calculator
 
