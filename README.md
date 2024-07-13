@@ -34,7 +34,7 @@ Explanation: This means at the 1st trip, there are 40 (50 - 10) remaining seats.
 
 ## $\textnormal{Local \ Development}$
 
-> - Install the GNU C++ Compiler in your machine.
+> - Install the GNU C Compiler in your machine.
 
 > - Go to the root directory. Run the following commands.
 
