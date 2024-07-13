@@ -39,11 +39,13 @@ Explanation: This means at the 1st trip, there are 40 (50 - 10) remaining seats.
 > - Go to the root directory. Run the following commands.
 
 ```bash
-# Change the permission mode and make it executable.
-sudo chmod +x build
+# Running the app.
+chmod +x run.sh
+./run.sh
 
-# Run the app locally.
-./app
+# Running the app with GDB.
+chmod +x run-debug.sh
+./run-debug.sh
 ```
 
 <br />
