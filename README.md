@@ -1,4 +1,4 @@
-## $\textnormal{Description}$
+## $\textnormal{BusCalculator}$
 
 ![Screenshot from 2024-07-12 21-29-44](https://github.com/user-attachments/assets/a613d87a-9522-49d9-b0ba-36fbf74f2420)
 
